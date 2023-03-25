@@ -1,4 +1,2 @@
-<?php
-    require_once 'config/connection.php';
-    echo "Hello, Php"
-?>
+<!-- disini bkin file html -->
+<!-- input nama dan alamat -->
